@@ -41,7 +41,7 @@ class Vaccine
 void Vaccine::setData()//1
 {
     cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t ENTER THE DETAILS ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -84,7 +84,7 @@ void Vaccine::addNew()//2
 void Vaccine::showData()//3
 {
     cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:-Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:-pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t DETAILS  ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -132,7 +132,7 @@ void Vaccine ::viewVaccine()//5
     int ch;
     int s=num_of_vaccine-i;
        cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\tVACCINE STATISTICS";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -176,7 +176,7 @@ void Vaccine::searchData()//6
 {
     Vaccine item;
     cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-	cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo"<<endl<<endl;
+	cout<<"\t\t\t\t\t\t Powered By:- pankajdew"<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\tSEARCHING STATISTICS";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -232,7 +232,7 @@ void Vaccine::search_by_citizenship()//6.1
 	int flag,p =0;
     char cs[100];
      cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t Citizenship SEARCHING ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -269,7 +269,7 @@ void Vaccine::search_by_age()//6.2
     int flag =0;
     int a,p=0;
      cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t AGE SEARCHING ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -307,7 +307,7 @@ void Vaccine::search_by_profession()//6.3
     int p=0;
     char pf[100];
      cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t PROFESSION SEARCHING ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -345,7 +345,7 @@ void Vaccine::search_by_gender()//6.4
     char g;
     int p=0;
      cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t GENDER SEARCHING ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -381,7 +381,7 @@ void Vaccine::search_by_vaccine()//6.5
     int p=0;
     char pf[100];
      cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t PROFESSION SEARCHING ";
     cout<<"\n\t\t\t*****************************************\n\n";
@@ -434,7 +434,7 @@ void Vaccine::view_all(){
 				cout<<"File doesnot exist";
 			}
 			cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-    		cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+    		cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     		cout<<"\n\t\t\t*****************************************\n";
     		cout<<"\t\t\t\t\tALL DATA ";
     		cout<<"\n\t\t\t*****************************************\n\n";
@@ -479,7 +479,7 @@ void menu()//c
 {
     system("cls");
     cout<<"\n\n\t\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-	cout<<"\t\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl<<endl;
+	cout<<"\t\t\t\t\t\t\t Powered By:- pankajdew "<<endl<<endl;
     cout<<"\n\t\t\t*****************************************\n";
     cout<<"\t\t\t\t WELCOME TO THE MAIN MENU";
     cout<<"\n\t\t\t*****************************************\n";
@@ -494,7 +494,7 @@ int main()//MAINFUNCTION--------------------------------------------------------
      int k=3;
      int num_vac;
     cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-	cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo "<<endl;
+	cout<<"\t\t\t\t\t\t Powered By:- pankajdew "<<endl;
     cout<<"\t\n\n Press any key to continue.............  "<<endl;
     getch();
     B:
@@ -527,7 +527,7 @@ int main()//MAINFUNCTION--------------------------------------------------------
       int ch;
       do{
             cout<<"\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 VACCINE MANAGEMENT SYSTEM  \xB3\xB2=\xB2=\xB2-\xB3\n\n"<<endl;
-            cout<<"\t\t\t\t\t\t Powered By:- Learnprogramo"<<endl;
+            cout<<"\t\t\t\t\t\t Powered By:- pankajdew"<<endl;
             menu();
             cout<<"\n\t\n\tChoose according to your need : ";
             cin>>ch;
